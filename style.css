@@ -64,7 +64,7 @@ html {
     color: #FFFFFF;
 }
 .top_first h5{
-    font-family: 600;
+    font-weight: 600;
     font-size: 16px;
     letter-spacing: 3px;
     padding-top: 128px;
@@ -132,7 +132,7 @@ html {
     padding: 128px 0 ;
 }
 .allPost_left {
-    width: 733px;
+    max-width: 733px;
 
 }
 .allPost_box {
@@ -182,7 +182,7 @@ html {
     font-family: "Inter", sans-serif;
 }
 .allPost_cards {
-    width: 517px;
+    max-width: 517px;
     padding: 32px 116px 25px 32px;
 }
 .allPost_cards p {

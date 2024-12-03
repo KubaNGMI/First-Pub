@@ -1,0 +1,39 @@
+@media(max-width:1229px){
+    .Input_box {
+        max-width: 100%;
+    }
+    .authors_cards {
+        width: 100%;
+    }
+}
+
+
+@media(max-width:1155px){
+
+    .Input_box {
+        flex-direction: column;
+        max-width: 1150px;
+    }
+    .Mission_main {
+        flex-direction: column;
+    }
+    .authors_cards {
+        width: 100%;
+    }
+    .Yellow {
+        width: 80%;
+    }
+    .Purple {
+        width: 20%;
+    }
+    .we_ft {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:980px){
+    .Input_box{
+        width: 100%;
+    }
+
+}
